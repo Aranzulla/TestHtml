@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+button {
+    color: white;
+    background: black;
+    width: 50px;
+    height: 50px;
+    font-style: normal;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    
+}
+#bt_invio{
+    width: 211px;
+}
+
+#div_visual{
+    width: 213px;
+    background: azure;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    height: 30px;
+}
+
+button:hover{
+    background-color: red;
+}
+
+button:focus{
+    outline:none;
+}
